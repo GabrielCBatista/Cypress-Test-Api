@@ -1,0 +1,20 @@
+{
+  "login": {
+    "valid": {
+      "email": "fulano@qa.com",
+      "password": "teste"
+    },
+    "invalid": {
+      "email": "user@example.com",
+      "password": "invalidpassword"
+    }
+  },
+  "addUser": {
+    "user": {
+      "nome": "Gabriel Batista",
+      "email": "Gabriel@qa.com.br",
+      "password": "teste4i",
+      "administrador": "true"
+    }
+  }
+}
